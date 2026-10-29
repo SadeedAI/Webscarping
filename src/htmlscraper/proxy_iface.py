@@ -85,6 +85,10 @@ class ProxyPool(ProxyProvider):
 def provider_from_env(env=None) -> ProxyProvider:
     """SCRAPER_PROXY_LIST (comma separated) > SCRAPER_HTTP_PROXY > none."""
     env = os.environ if env is None else env
+  mine = [x.strip() for x in (env.get("SCRAPER_MY_PROXY_LIST") or "").split(",") if x.strip()]
+    if mine:
+        from .my_provider import HealthProxyProvider  # local import avoids circular import
+        return HealthProxyProvider(mine)
     lst = [x.strip() for x in (env.get("SCRAPER_PROXY_LIST") or "").split(",") if x.strip()]
     if lst:
         return ProxyPool(lst)
