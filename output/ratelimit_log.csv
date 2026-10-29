@@ -1,0 +1,13 @@
+n,time,status,ms,class,retry-after,x-ratelimit-limit,x-ratelimit-remaining
+1,23:24:27,200,16.0,OK,,5,4
+2,23:24:27,200,0.0,OK,,5,3
+3,23:24:27,200,0.0,OK,,5,2
+4,23:24:27,200,0.0,OK,,5,1
+5,23:24:28,200,0.0,OK,,5,0
+6,23:24:28,429,0.0,RATE_LIMITED (429),5,5,0
+7,23:24:28,429,0.0,RATE_LIMITED (429),5,5,0
+8,23:24:28,429,0.0,RATE_LIMITED (429),5,5,0
+9,23:24:35,200,0.0,OK after reset,,5,4
+/forbidden,23:24:35,403,0.0,"FORBIDDEN (403) - access denied, not necessarily rate limit",,,
+/error,23:24:35,500,0.0,SERVER_ERROR,,,
+/slow,23:24:36,,,CONNECTION_ERROR (timeout): timeout after 1s: http://127.0.0.1:59133/slow,,,

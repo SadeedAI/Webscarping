@@ -1,0 +1,11 @@
+time,url,status,outcome,ms,retry-after,x-ratelimit-remaining,error
+2026-10-28 23:40:50,http://127.0.0.1:52377/v1/products(search=x),200,ok,0.0,,,
+2026-10-28 23:40:51,http://127.0.0.1:52377/v1/products(search=x),200,ok,16.0,,,
+2026-10-28 23:40:51,http://127.0.0.1:52377/v1/products(search=x),200,ok,15.0,,,
+2026-10-28 23:40:51,http://127.0.0.1:52377/v1/products(search=x),429,RateLimitError,0.0,1,,"HTTP 429: {""error"": ""too many requests""}"
+2026-10-28 23:40:52,http://127.0.0.1:52377/v1/products(search=x),429,RateLimitError,16.0,1,,"HTTP 429: {""error"": ""too many requests""}"
+2026-10-28 23:40:53,http://127.0.0.1:52377/v1/products(search=x),429,RateLimitError,0.0,1,,"HTTP 429: {""error"": ""too many requests""}"
+2026-10-28 23:40:54,http://127.0.0.1:52384/v1/products(search=x),200,ok,0.0,,,
+2026-10-28 23:40:54,http://127.0.0.1:52384/v1/products(search=x),200,ok,0.0,,,
+2026-10-28 23:40:54,http://127.0.0.1:52384/v1/products(search=x),200,ok,16.0,,,
+2026-10-28 23:40:55,http://127.0.0.1:52384/v1/products(search=x),403,QuotaExhausted,0.0,,,"HTTP 403: {""error"": {""code"": 403, ""message"": ""Over quota: call limit exceeded""}}"

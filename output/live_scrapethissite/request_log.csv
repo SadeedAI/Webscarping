@@ -1,0 +1,3 @@
+time,url,status,outcome,ms,retry_after,proxy,error
+2026-10-29 10:31:00,https://www.scrapethissite.com/robots.txt,200,ok,265.0,,no,
+2026-10-29 10:31:02,https://www.scrapethissite.com/pages/simple/,200,ok,782.0,,no,

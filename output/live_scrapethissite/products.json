@@ -1,0 +1,1764 @@
+{
+  "data_origin": "LIVE",
+  "source": "https://www.scrapethissite.com/pages/simple/",
+  "retrieved_at": "2026-10-29T10:31:03+0300",
+  "summary": {
+    "pages_fetched": 1,
+    "stopped_with": null,
+    "proxy_provider": "NoProxy",
+    "site": "scrapethissite_countries"
+  },
+  "count": 250,
+  "products": [
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "population": 84000.0,
+      "area_km2": 468.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "population": 4975593.0,
+      "area_km2": 82880.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "population": 29121286.0,
+      "area_km2": 647500.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "capital": "St. John's",
+      "population": 86754.0,
+      "area_km2": 443.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Anguilla",
+      "capital": "The Valley",
+      "population": 13254.0,
+      "area_km2": 102.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "population": 2986952.0,
+      "area_km2": 28748.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "population": 2968000.0,
+      "area_km2": 29800.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "population": 13068161.0,
+      "area_km2": 1246700.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Antarctica",
+      "capital": "None",
+      "population": 0.0,
+      "area_km2": 14000000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 41343201.0,
+      "area_km2": 2766890.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "population": 57881.0,
+      "area_km2": 199.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "population": 8205000.0,
+      "area_km2": 83858.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 21515754.0,
+      "area_km2": 7686850.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Aruba",
+      "capital": "Oranjestad",
+      "population": 71566.0,
+      "area_km2": 193.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Åland",
+      "capital": "Mariehamn",
+      "population": 26711.0,
+      "area_km2": 1580.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "population": 8303512.0,
+      "area_km2": 86600.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "population": 4590000.0,
+      "area_km2": 51129.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "population": 285653.0,
+      "area_km2": 431.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 156118464.0,
+      "area_km2": 144000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "population": 10403000.0,
+      "area_km2": 30510.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "population": 16241811.0,
+      "area_km2": 274200.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "population": 7148785.0,
+      "area_km2": 110910.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bahrain",
+      "capital": "Manama",
+      "population": 738004.0,
+      "area_km2": 665.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "population": 9863117.0,
+      "area_km2": 27830.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "population": 9056010.0,
+      "area_km2": 112620.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "capital": "Gustavia",
+      "population": 8450.0,
+      "area_km2": 21.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bermuda",
+      "capital": "Hamilton",
+      "population": 65365.0,
+      "area_km2": 53.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "population": 395027.0,
+      "area_km2": 5770.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "population": 9947418.0,
+      "area_km2": 1098580.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bonaire",
+      "capital": "Kralendijk",
+      "population": 18012.0,
+      "area_km2": 328.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 201103330.0,
+      "area_km2": 8511965.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "population": 301790.0,
+      "area_km2": 13940.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "population": 699847.0,
+      "area_km2": 47000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Bouvet Island",
+      "capital": "None",
+      "population": 0.0,
+      "area_km2": 49.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "population": 2029307.0,
+      "area_km2": 600370.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "population": 9685000.0,
+      "area_km2": 207600.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Belize",
+      "capital": "Belmopan",
+      "population": 314522.0,
+      "area_km2": 22966.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": 33679000.0,
+      "area_km2": 9984670.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cocos [Keeling] Islands",
+      "capital": "West Island",
+      "population": 628.0,
+      "area_km2": 14.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "capital": "Kinshasa",
+      "population": 70916439.0,
+      "area_km2": 2345410.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "population": 4844927.0,
+      "area_km2": 622984.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Republic of the Congo",
+      "capital": "Brazzaville",
+      "population": 3039126.0,
+      "area_km2": 342000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Switzerland",
+      "capital": "Bern",
+      "population": 7581000.0,
+      "area_km2": 41290.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ivory Coast",
+      "capital": "Yamoussoukro",
+      "population": 21058798.0,
+      "area_km2": 322460.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cook Islands",
+      "capital": "Avarua",
+      "population": 21388.0,
+      "area_km2": 240.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "population": 16746491.0,
+      "area_km2": 756950.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cameroon",
+      "capital": "Yaoundé",
+      "population": 19294149.0,
+      "area_km2": 475440.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "China",
+      "capital": "Beijing",
+      "population": 1330044000.0,
+      "area_km2": 9596960.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "population": 47790000.0,
+      "area_km2": 1138910.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Costa Rica",
+      "capital": "San José",
+      "population": 4516220.0,
+      "area_km2": 51100.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cuba",
+      "capital": "Havana",
+      "population": 11423000.0,
+      "area_km2": 110860.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cape Verde",
+      "capital": "Praia",
+      "population": 508659.0,
+      "area_km2": 4033.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Curacao",
+      "capital": "Willemstad",
+      "population": 141766.0,
+      "area_km2": 444.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Christmas Island",
+      "capital": "Flying Fish Cove",
+      "population": 1500.0,
+      "area_km2": 135.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "population": 1102677.0,
+      "area_km2": 9250.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "population": 10476000.0,
+      "area_km2": 78866.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 81802257.0,
+      "area_km2": 357021.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "population": 740528.0,
+      "area_km2": 23000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5484000.0,
+      "area_km2": 43094.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Dominica",
+      "capital": "Roseau",
+      "population": 72813.0,
+      "area_km2": 754.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "population": 9823821.0,
+      "area_km2": 48730.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "population": 34586184.0,
+      "area_km2": 2381740.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "population": 14790608.0,
+      "area_km2": 283560.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "population": 1291170.0,
+      "area_km2": 45226.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Egypt",
+      "capital": "Cairo",
+      "population": 80471869.0,
+      "area_km2": 1001450.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Western Sahara",
+      "capital": "Laâyoune / El Aaiún",
+      "population": 273008.0,
+      "area_km2": 266000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "population": 5792984.0,
+      "area_km2": 121320.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "population": 46505963.0,
+      "area_km2": 504782.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "population": 88013491.0,
+      "area_km2": 1127127.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "population": 5244000.0,
+      "area_km2": 337030.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Fiji",
+      "capital": "Suva",
+      "population": 875983.0,
+      "area_km2": 18270.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Falkland Islands",
+      "capital": "Stanley",
+      "population": 2638.0,
+      "area_km2": 12173.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Micronesia",
+      "capital": "Palikir",
+      "population": 107708.0,
+      "area_km2": 702.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Faroe Islands",
+      "capital": "Tórshavn",
+      "population": 48228.0,
+      "area_km2": 1399.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "France",
+      "capital": "Paris",
+      "population": 64768389.0,
+      "area_km2": 547030.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Gabon",
+      "capital": "Libreville",
+      "population": 1545255.0,
+      "area_km2": 267667.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "United Kingdom",
+      "capital": "London",
+      "population": 62348447.0,
+      "area_km2": 244820.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Grenada",
+      "capital": "St. George's",
+      "population": 107818.0,
+      "area_km2": 344.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Georgia",
+      "capital": "Tbilisi",
+      "population": 4630000.0,
+      "area_km2": 69700.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "French Guiana",
+      "capital": "Cayenne",
+      "population": 195506.0,
+      "area_km2": 91000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guernsey",
+      "capital": "St Peter Port",
+      "population": 65228.0,
+      "area_km2": 78.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ghana",
+      "capital": "Accra",
+      "population": 24339838.0,
+      "area_km2": 239460.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Gibraltar",
+      "capital": "Gibraltar",
+      "population": 27884.0,
+      "area_km2": 6.5,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "population": 56375.0,
+      "area_km2": 2166086.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Gambia",
+      "capital": "Bathurst",
+      "population": 1593256.0,
+      "area_km2": 11300.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guinea",
+      "capital": "Conakry",
+      "population": 10324025.0,
+      "area_km2": 245857.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guadeloupe",
+      "capital": "Basse-Terre",
+      "population": 443000.0,
+      "area_km2": 1780.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "population": 1014999.0,
+      "area_km2": 28051.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Greece",
+      "capital": "Athens",
+      "population": 11000000.0,
+      "area_km2": 131940.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "capital": "Grytviken",
+      "population": 30.0,
+      "area_km2": 3903.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "population": 13550440.0,
+      "area_km2": 108890.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guam",
+      "capital": "Hagåtña",
+      "population": 159358.0,
+      "area_km2": 549.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "capital": "Bissau",
+      "population": 1565126.0,
+      "area_km2": 36120.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "population": 748486.0,
+      "area_km2": 214970.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Hong Kong",
+      "capital": "Hong Kong",
+      "population": 6898686.0,
+      "area_km2": 1092.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "capital": "None",
+      "population": 0.0,
+      "area_km2": 412.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "population": 7989415.0,
+      "area_km2": 112090.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "population": 4491000.0,
+      "area_km2": 56542.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "population": 9648924.0,
+      "area_km2": 27750.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "population": 9982000.0,
+      "area_km2": 93030.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "population": 242968342.0,
+      "area_km2": 1919440.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "population": 4622917.0,
+      "area_km2": 70280.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Israel",
+      "capital": "None",
+      "population": 7353985.0,
+      "area_km2": 20770.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "population": 75049.0,
+      "area_km2": 572.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1173108018.0,
+      "area_km2": 3287590.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "capital": "None",
+      "population": 4000.0,
+      "area_km2": 60.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Iraq",
+      "capital": "Baghdad",
+      "population": 29671605.0,
+      "area_km2": 437072.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Iran",
+      "capital": "Tehran",
+      "population": 76923300.0,
+      "area_km2": 1648000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Iceland",
+      "capital": "Reykjavik",
+      "population": 308910.0,
+      "area_km2": 103000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "population": 60340328.0,
+      "area_km2": 301230.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Jersey",
+      "capital": "Saint Helier",
+      "population": 90812.0,
+      "area_km2": 116.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Jamaica",
+      "capital": "Kingston",
+      "population": 2847232.0,
+      "area_km2": 10991.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Jordan",
+      "capital": "Amman",
+      "population": 6407085.0,
+      "area_km2": 92300.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 127288000.0,
+      "area_km2": 377835.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "population": 40046566.0,
+      "area_km2": 582650.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "population": 5776500.0,
+      "area_km2": 198500.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "population": 14453680.0,
+      "area_km2": 181040.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kiribati",
+      "capital": "Tarawa",
+      "population": 92533.0,
+      "area_km2": 811.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Comoros",
+      "capital": "Moroni",
+      "population": 773407.0,
+      "area_km2": 2170.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "capital": "Basseterre",
+      "population": 51134.0,
+      "area_km2": 261.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "North Korea",
+      "capital": "Pyongyang",
+      "population": 22912177.0,
+      "area_km2": 120540.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "South Korea",
+      "capital": "Seoul",
+      "population": 48422644.0,
+      "area_km2": 98480.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kuwait",
+      "capital": "Kuwait City",
+      "population": 2789132.0,
+      "area_km2": 17820.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Cayman Islands",
+      "capital": "George Town",
+      "population": 44270.0,
+      "area_km2": 262.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kazakhstan",
+      "capital": "Astana",
+      "population": 15340000.0,
+      "area_km2": 2717300.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Laos",
+      "capital": "Vientiane",
+      "population": 6368162.0,
+      "area_km2": 236800.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Lebanon",
+      "capital": "Beirut",
+      "population": 4125247.0,
+      "area_km2": 10400.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Lucia",
+      "capital": "Castries",
+      "population": 160922.0,
+      "area_km2": 616.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "population": 35000.0,
+      "area_km2": 160.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Sri Lanka",
+      "capital": "Colombo",
+      "population": 21513990.0,
+      "area_km2": 65610.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "population": 3685076.0,
+      "area_km2": 111370.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "population": 1919552.0,
+      "area_km2": 30355.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "population": 2944459.0,
+      "area_km2": 65200.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "population": 497538.0,
+      "area_km2": 2586.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Latvia",
+      "capital": "Riga",
+      "population": 2217969.0,
+      "area_km2": 64589.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Libya",
+      "capital": "Tripoli",
+      "population": 6461454.0,
+      "area_km2": 1759540.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Morocco",
+      "capital": "Rabat",
+      "population": 31627428.0,
+      "area_km2": 446550.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Monaco",
+      "capital": "Monaco",
+      "population": 32965.0,
+      "area_km2": 1.95,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Moldova",
+      "capital": "Chişinău",
+      "population": 4324000.0,
+      "area_km2": 33843.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "population": 666730.0,
+      "area_km2": 14026.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Martin",
+      "capital": "Marigot",
+      "population": 35925.0,
+      "area_km2": 53.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "population": 21281844.0,
+      "area_km2": 587040.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Marshall Islands",
+      "capital": "Majuro",
+      "population": 65859.0,
+      "area_km2": 181.3,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Macedonia",
+      "capital": "Skopje",
+      "population": 2062294.0,
+      "area_km2": 25333.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mali",
+      "capital": "Bamako",
+      "population": 13796354.0,
+      "area_km2": 1240000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Myanmar [Burma]",
+      "capital": "Naypyitaw",
+      "population": 53414374.0,
+      "area_km2": 678500.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mongolia",
+      "capital": "Ulan Bator",
+      "population": 3086918.0,
+      "area_km2": 1565000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Macao",
+      "capital": "Macao",
+      "population": 449198.0,
+      "area_km2": 254.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "capital": "Saipan",
+      "population": 53883.0,
+      "area_km2": 477.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Martinique",
+      "capital": "Fort-de-France",
+      "population": 432900.0,
+      "area_km2": 1100.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "population": 3205060.0,
+      "area_km2": 1030700.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Montserrat",
+      "capital": "Plymouth",
+      "population": 9341.0,
+      "area_km2": 102.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Malta",
+      "capital": "Valletta",
+      "population": 403000.0,
+      "area_km2": 316.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "population": 1294104.0,
+      "area_km2": 2040.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Maldives",
+      "capital": "Malé",
+      "population": 395650.0,
+      "area_km2": 300.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "population": 15447500.0,
+      "area_km2": 118480.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "population": 112468855.0,
+      "area_km2": 1972550.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "population": 28274729.0,
+      "area_km2": 329750.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "population": 22061451.0,
+      "area_km2": 801590.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "population": 2128471.0,
+      "area_km2": 825418.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "New Caledonia",
+      "capital": "Noumea",
+      "population": 216494.0,
+      "area_km2": 19060.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Niger",
+      "capital": "Niamey",
+      "population": 15878271.0,
+      "area_km2": 1267000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Norfolk Island",
+      "capital": "Kingston",
+      "population": 1828.0,
+      "area_km2": 34.6,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "population": 154000000.0,
+      "area_km2": 923768.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "population": 5995928.0,
+      "area_km2": 129494.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 16645000.0,
+      "area_km2": 41526.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Norway",
+      "capital": "Oslo",
+      "population": 5009150.0,
+      "area_km2": 324220.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Nepal",
+      "capital": "Kathmandu",
+      "population": 28951852.0,
+      "area_km2": 140800.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Nauru",
+      "capital": "Yaren",
+      "population": 10065.0,
+      "area_km2": 21.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Niue",
+      "capital": "Alofi",
+      "population": 2166.0,
+      "area_km2": 260.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "population": 4252277.0,
+      "area_km2": 268680.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Oman",
+      "capital": "Muscat",
+      "population": 2967717.0,
+      "area_km2": 212460.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Panama",
+      "capital": "Panama City",
+      "population": 3410676.0,
+      "area_km2": 78200.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Peru",
+      "capital": "Lima",
+      "population": 29907003.0,
+      "area_km2": 1285220.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "French Polynesia",
+      "capital": "Papeete",
+      "population": 270485.0,
+      "area_km2": 4167.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "population": 6064515.0,
+      "area_km2": 462840.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Philippines",
+      "capital": "Manila",
+      "population": 99900177.0,
+      "area_km2": 300000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "population": 184404791.0,
+      "area_km2": 803940.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "population": 38500000.0,
+      "area_km2": 312685.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "capital": "Saint-Pierre",
+      "population": 7012.0,
+      "area_km2": 242.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "capital": "Adamstown",
+      "population": 46.0,
+      "area_km2": 47.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Puerto Rico",
+      "capital": "San Juan",
+      "population": 3916632.0,
+      "area_km2": 9104.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Palestine",
+      "capital": "None",
+      "population": 3800000.0,
+      "area_km2": 5970.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10676000.0,
+      "area_km2": 92391.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Palau",
+      "capital": "Melekeok",
+      "population": 19907.0,
+      "area_km2": 458.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "population": 6375830.0,
+      "area_km2": 406750.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Qatar",
+      "capital": "Doha",
+      "population": 840926.0,
+      "area_km2": 11437.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Réunion",
+      "capital": "Saint-Denis",
+      "population": 776948.0,
+      "area_km2": 2517.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "population": 21959278.0,
+      "area_km2": 237500.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "population": 7344847.0,
+      "area_km2": 88361.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Russia",
+      "capital": "Moscow",
+      "population": 140702000.0,
+      "area_km2": 17100000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "population": 11055976.0,
+      "area_km2": 26338.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 25731776.0,
+      "area_km2": 1960582.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Solomon Islands",
+      "capital": "Honiara",
+      "population": 559198.0,
+      "area_km2": 28450.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Seychelles",
+      "capital": "Victoria",
+      "population": 88340.0,
+      "area_km2": 455.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "population": 35000000.0,
+      "area_km2": 1861484.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "population": 9828655.0,
+      "area_km2": 449964.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Singapore",
+      "capital": "Singapore",
+      "population": 4701069.0,
+      "area_km2": 692.7,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Helena",
+      "capital": "Jamestown",
+      "population": 7460.0,
+      "area_km2": 410.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "population": 2007000.0,
+      "area_km2": 20273.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "capital": "Longyearbyen",
+      "population": 2550.0,
+      "area_km2": 62049.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "population": 5455000.0,
+      "area_km2": 48845.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "population": 5245695.0,
+      "area_km2": 71740.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "San Marino",
+      "capital": "San Marino",
+      "population": 31477.0,
+      "area_km2": 61.2,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Senegal",
+      "capital": "Dakar",
+      "population": 12323252.0,
+      "area_km2": 196190.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "population": 10112453.0,
+      "area_km2": 637657.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Suriname",
+      "capital": "Paramaribo",
+      "population": 492829.0,
+      "area_km2": 163270.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "South Sudan",
+      "capital": "Juba",
+      "population": 8260490.0,
+      "area_km2": 644329.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "capital": "São Tomé",
+      "population": 175808.0,
+      "area_km2": 1001.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "population": 6052064.0,
+      "area_km2": 21040.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Sint Maarten",
+      "capital": "Philipsburg",
+      "population": 37429.0,
+      "area_km2": 21.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Syria",
+      "capital": "Damascus",
+      "population": 22198110.0,
+      "area_km2": 185180.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Swaziland",
+      "capital": "Mbabane",
+      "population": 1354051.0,
+      "area_km2": 17363.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "capital": "Cockburn Town",
+      "population": 20556.0,
+      "area_km2": 430.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Chad",
+      "capital": "N'Djamena",
+      "population": 10543464.0,
+      "area_km2": 1284000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "French Southern Territories",
+      "capital": "Port-aux-Français",
+      "population": 140.0,
+      "area_km2": 7829.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Togo",
+      "capital": "Lomé",
+      "population": 6587239.0,
+      "area_km2": 56785.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "population": 67089500.0,
+      "area_km2": 514000.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tajikistan",
+      "capital": "Dushanbe",
+      "population": 7487489.0,
+      "area_km2": 143100.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tokelau",
+      "capital": "None",
+      "population": 1466.0,
+      "area_km2": 10.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "East Timor",
+      "capital": "Dili",
+      "population": 1154625.0,
+      "area_km2": 15007.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Turkmenistan",
+      "capital": "Ashgabat",
+      "population": 4940916.0,
+      "area_km2": 488100.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "population": 10589025.0,
+      "area_km2": 163610.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tonga",
+      "capital": "Nuku'alofa",
+      "population": 122580.0,
+      "area_km2": 748.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Turkey",
+      "capital": "Ankara",
+      "population": 77804122.0,
+      "area_km2": 780580.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "population": 1228691.0,
+      "area_km2": 5128.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tuvalu",
+      "capital": "Funafuti",
+      "population": 10472.0,
+      "area_km2": 26.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Taiwan",
+      "capital": "Taipei",
+      "population": 22894384.0,
+      "area_km2": 35980.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Tanzania",
+      "capital": "Dodoma",
+      "population": 41892895.0,
+      "area_km2": 945087.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Ukraine",
+      "capital": "Kiev",
+      "population": 45415596.0,
+      "area_km2": 603700.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Uganda",
+      "capital": "Kampala",
+      "population": 33398682.0,
+      "area_km2": 236040.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "U.S. Minor Outlying Islands",
+      "capital": "None",
+      "population": 0.0,
+      "area_km2": 0.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "United States",
+      "capital": "Washington",
+      "population": 310232863.0,
+      "area_km2": 9629091.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "population": 3477000.0,
+      "area_km2": 176220.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "population": 27865738.0,
+      "area_km2": 447400.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Vatican City",
+      "capital": "Vatican City",
+      "population": 921.0,
+      "area_km2": 0.44,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "capital": "Kingstown",
+      "population": 104217.0,
+      "area_km2": 389.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "population": 27223228.0,
+      "area_km2": 912050.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "British Virgin Islands",
+      "capital": "Road Town",
+      "population": 21730.0,
+      "area_km2": 153.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "capital": "Charlotte Amalie",
+      "population": 108708.0,
+      "area_km2": 352.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "population": 89571130.0,
+      "area_km2": 329560.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Vanuatu",
+      "capital": "Port Vila",
+      "population": 221552.0,
+      "area_km2": 12200.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "capital": "Mata-Utu",
+      "population": 16025.0,
+      "area_km2": 274.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Samoa",
+      "capital": "Apia",
+      "population": 192001.0,
+      "area_km2": 2944.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "population": 1800000.0,
+      "area_km2": 10908.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Yemen",
+      "capital": "Sanaa",
+      "population": 23495361.0,
+      "area_km2": 527970.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Mayotte",
+      "capital": "Mamoudzou",
+      "population": 159042.0,
+      "area_km2": 374.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "population": 49000000.0,
+      "area_km2": 1219912.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "population": 13460305.0,
+      "area_km2": 752614.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    },
+    {
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "population": 11651858.0,
+      "area_km2": 390580.0,
+      "url": "https://www.scrapethissite.com/pages/simple/"
+    }
+  ]
+}

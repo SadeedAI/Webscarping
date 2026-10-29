@@ -1,0 +1,4 @@
+time,url,status,outcome,ms,retry_after,proxy,error
+2026-10-29 10:23:56,https://webscraper.io/robots.txt,200,ok,922.0,,no,
+2026-10-29 10:23:58,https://webscraper.io/test-sites/e-commerce/static/computers/laptops,200,ok,515.0,,no,
+2026-10-29 10:24:01,https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2,200,ok,469.0,,no,

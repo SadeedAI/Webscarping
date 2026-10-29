@@ -1,0 +1,133 @@
+{
+  "data_origin": "LIVE",
+  "source": "https://webscraper.io/test-sites/e-commerce/static/computers/laptops",
+  "retrieved_at": "2026-10-29T10:24:01+0300",
+  "summary": {
+    "pages_fetched": 2,
+    "stopped_with": null,
+    "proxy_provider": "NoProxy"
+  },
+  "count": 12,
+  "products": [
+    {
+      "name": "Packard 255 G2",
+      "price": 416.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/31",
+      "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+      "rating": 2,
+      "review_count": 2,
+      "category": "laptops"
+    },
+    {
+      "name": "Aspire E1-510",
+      "price": 306.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/32",
+      "description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+      "rating": 3,
+      "review_count": 2,
+      "category": "laptops"
+    },
+    {
+      "name": "ThinkPad T540p",
+      "price": 1178.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/33",
+      "description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+      "rating": 1,
+      "review_count": 2,
+      "category": "laptops"
+    },
+    {
+      "name": "ProBook",
+      "price": 739.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/34",
+      "description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+      "rating": 4,
+      "review_count": 8,
+      "category": "laptops"
+    },
+    {
+      "name": "ThinkPad X240",
+      "price": 1311.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/35",
+      "description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+      "rating": 3,
+      "review_count": 12,
+      "category": "laptops"
+    },
+    {
+      "name": "Aspire E1-572G",
+      "price": 581.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/36",
+      "description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+      "rating": 1,
+      "review_count": 2,
+      "category": "laptops"
+    },
+    {
+      "name": "ThinkPad Yoga",
+      "price": 1033.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/37",
+      "description": "12.5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",
+      "rating": 2,
+      "review_count": 13,
+      "category": "laptops"
+    },
+    {
+      "name": "Pavilion",
+      "price": 609.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/38",
+      "description": "15.6\", Core i5-4200U, 6GB, 750GB, Windows 8.1",
+      "rating": 1,
+      "review_count": 4,
+      "category": "laptops"
+    },
+    {
+      "name": "Inspiron 15",
+      "price": 745.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/39",
+      "description": "Moon Silver, 15.6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",
+      "rating": 3,
+      "review_count": 12,
+      "category": "laptops"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1281.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/40",
+      "description": "13.3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",
+      "rating": 3,
+      "review_count": 4,
+      "category": "laptops"
+    },
+    {
+      "name": "ThinkPad X230",
+      "price": 1244.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/41",
+      "description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",
+      "rating": 3,
+      "review_count": 10,
+      "category": "laptops"
+    },
+    {
+      "name": "HP 250 G3",
+      "price": 520.99,
+      "currency": "USD",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/product/42",
+      "description": "15.6\", Core i5-4210U, 4GB, 500GB, Windows 8.1",
+      "rating": 2,
+      "review_count": 13,
+      "category": "laptops"
+    }
+  ]
+}
