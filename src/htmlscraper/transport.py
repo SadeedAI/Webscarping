@@ -5,6 +5,8 @@ Rules for blocked requests (403 / 429):
   1. 429 with a usable Retry-After (<= max_retry_wait): wait that long, retry (bounded).
   2. Otherwise, only if failover is enabled AND the provider can rotate: switch route, retry (bounded).
   3. Otherwise stop with a typed error. 403 is never retried on the same route.
+A proxy that cannot be reached (ProxyConnectError) is reported as blocked; with failover it is rotated
+away from, otherwise it is retried with backoff like any transport error.
 """
 import email.utils
 import logging
@@ -104,6 +106,10 @@ class HtmlTransport:
                 try:
                     r = self.session.get(url, timeout=self.timeout,
                                          proxies={"http": proxy, "https": proxy} if proxy else None)
+                except requests.exceptions.ProxyError as e:
+                    if "407" in str(e):
+                        raise E.ProxyAuthError("proxy rejected credentials (407)") from e
+                    raise E.ProxyConnectError("proxy unreachable") from e
                 except requests.Timeout as e:
                     raise E.TransportError(f"timeout after {self.timeout}s") from e
                 except requests.RequestException as e:
@@ -119,7 +125,8 @@ class HtmlTransport:
                 self._raise(r)
             except E.ScraperError as err:
                 self._log(url, proxy, status, type(err).__name__, start, hdrs, str(err))
-                if isinstance(err, (E.RateLimitError, E.ForbiddenError, E.QuotaExhausted, E.AuthError)):
+                if isinstance(err, (E.RateLimitError, E.ForbiddenError, E.QuotaExhausted, E.AuthError,
+                                    E.ProxyConnectError)):
                     self.provider.report_blocked(proxy, status)
                 action, wait = self._decide(err, attempt, failovers)
                 if action == "stop":
@@ -141,6 +148,8 @@ class HtmlTransport:
             raise E.ForbiddenError(msg, c, ra)
         if c == 401:
             raise E.AuthError(msg, c)
+        if c == 407:                                    # plain-HTTP proxy rejected its credentials
+            raise E.ProxyAuthError("proxy rejected credentials (407)")
         if c >= 500:
             raise E.ServerError(msg, c, ra)
         raise E.ClientError(msg, c)
@@ -160,6 +169,11 @@ class HtmlTransport:
             if self.failover and failovers < self.max_failovers and self.provider.rotate(type(err).__name__):
                 return "rotate", self._backoff(attempt)   # provider switched route; wait, then retry
             return "stop", 0                              # no failover, or no other route: give up
+        if isinstance(err, E.ProxyConnectError):         # dead proxy: switch route if allowed, else retry
+            if self.failover and failovers < self.max_failovers and self.provider.rotate(type(err).__name__):
+                return "rotate", self._backoff(attempt)
+            if isinstance(err, E.ProxyAuthError):        # wrong credentials: retrying cannot help
+                return "stop", 0
         if isinstance(err, (E.ServerError, E.TransportError)):
             return "retry", self._backoff(attempt)
         return "stop", 0

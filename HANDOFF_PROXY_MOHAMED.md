@@ -65,8 +65,12 @@ Use proxies for routing you are authorized to use. Do not use rotation to defeat
 |---|---|
 | Interface and reference classes | Done (Shehab) |
 | Contract tests, built-in providers | PROXY-INTERFACE, passing |
-| Mohamed's real provider | **NOT BUILT** |
-| Real proxy live test (A and B above) | **NOT TESTED** |
-| Failover after a real block | **UNVERIFIED** (no real block has been observed; do not force one) |
+| Mohamed's provider (`HealthProxyProvider`, env `SCRAPER_MY_PROXY_LIST`) | Done (Mohamed). Typo and indent fixed by Shehab |
+| Test A (contract) on Mohamed's provider | Passing, 20/20 |
+| Dead proxy (connection refused) | Fixed: `ProxyConnectError`, rotated away from with `--failover`, else retried |
+| Wrong proxy password (407) | Fixed: `ProxyAuthError`, never retried on the same proxy; rotated with `--failover` |
+| Live test B1-B3 through a local real forward proxy (2026-10-31) | Passing: real proxy 6/6 records; dead-then-good and bad-password-then-good both recover; all-dead stops with exit 1; no password in logs |
+| Live test with a third-party (paid) proxy | **NOT TESTED** (none supplied) |
+| Failover after a real site block (403/429) | **UNVERIFIED** (only simulated; no real block observed; do not force one) |
 
-Real proxy: **NOT BUILT, NOT TESTED.** Mohamed needs to supply: an authorized proxy source, his `ProxyProvider`, and the three tests above.
+Remaining: run test B1 once with a real third-party proxy the team is authorized to use.

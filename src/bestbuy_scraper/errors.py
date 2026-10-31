@@ -13,6 +13,14 @@ class TransportError(ScraperError):
     """No HTTP answer: timeout or connection failure."""
 
 
+class ProxyConnectError(TransportError):
+    """The proxy itself could not be reached. With failover on, the route is switched."""
+
+
+class ProxyAuthError(ProxyConnectError):
+    """The proxy rejected its credentials (407). Retrying the same proxy cannot help."""
+
+
 class HttpStatusError(ScraperError):
     def __init__(self, message, status=None, retry_after=None):
         super().__init__(message)

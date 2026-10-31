@@ -39,16 +39,48 @@ def test_e2e_failover_off_never_touches_second_proxy():
     assert recs == [] and not good.seen
 
 
-def test_e2e_dead_proxy_connection_error():
-    """A proxy that is down (connection refused) — what does the provider see?"""
+def test_e2e_dead_proxy_failover_switches_route():
+    """A proxy that is down (connection refused) is reported and rotated away from."""
     good = StubProxy("ok")
     p = HealthProxyProvider(["http://127.0.0.1:9", good.url])
-    t = tr(p, failover=True)
+    t = tr(p, failover=True, timeout=2)
     recs, summ = scrape_listing(t, SITE, max_pages=1)
-    # KNOWN GAP: transport only rotates on 403/429, so a dead proxy is retried, never rotated away from
-    assert recs == [] and "ProxyError" in summ["stopped_with"]
-    assert not good.seen
+    assert len(recs) == 6 and summ["stopped_with"] is None
+    assert t.events[0]["outcome"] == "ProxyConnectError" and good.seen
+    assert "http://127.0.0.1:9" in p._rest_until          # dead proxy now rests
     good.srv.shutdown()
+
+
+def test_e2e_dead_proxy_without_failover_retries_then_stops():
+    good = StubProxy("ok")
+    t = tr(HealthProxyProvider(["http://127.0.0.1:9", good.url]), max_retries=1, timeout=2)
+    recs, summ = scrape_listing(t, SITE, max_pages=1)
+    assert recs == [] and "ProxyConnectError" in summ["stopped_with"]
+    assert [e["outcome"] for e in t.events] == ["ProxyConnectError"] * 2 and not good.seen
+    good.srv.shutdown()
+
+
+def test_e2e_proxy_wrong_password_stops_without_retry():
+    bad = StubProxy("407")
+    t = tr(HealthProxyProvider([bad.url]), failover=True)
+    recs, summ = scrape_listing(t, SITE, max_pages=1)
+    assert recs == [] and "ProxyAuthError" in summ["stopped_with"]
+    assert len([e for e in t.events if PATH in e["url"]]) == 1     # no pointless retries
+    bad.srv.shutdown()
+
+
+def test_e2e_proxy_wrong_password_failover_to_next():
+    bad, good = StubProxy("407"), StubProxy("ok")
+    t = tr(HealthProxyProvider([bad.url, good.url]), failover=True)
+    recs, summ = scrape_listing(t, SITE, max_pages=1)
+    assert len(recs) == 6 and summ["stopped_with"] is None
+    bad.srv.shutdown(); good.srv.shutdown()
+
+
+def test_e2e_all_proxies_dead_stops_cleanly():
+    t = tr(HealthProxyProvider(["http://127.0.0.1:9", "http://127.0.0.1:7"]), failover=True, timeout=2)
+    recs, summ = scrape_listing(t, SITE, max_pages=1)
+    assert recs == [] and "ProxyConnectError" in summ["stopped_with"]
 
 
 # ---------- env wiring ----------

@@ -161,6 +161,8 @@ class StubProxy:
                     body, code = b"User-agent: *\nDisallow:\n", 200
                 elif mode == "ok":
                     body, code = HTML.encode(), 200
+                elif mode == "407":
+                    body, code = b"proxy auth required", 407
                 else:
                     body, code = b"blocked", 403
                 self.send_response(code)
