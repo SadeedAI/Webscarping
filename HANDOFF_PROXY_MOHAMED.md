@@ -45,7 +45,7 @@ Your own variables are fine. Add them in `provider_from_env()` only.
 **A. Contract test (offline, run on your provider first):**
 ```powershell
 $env:PYTHONPATH = "src"
-$env:SCRAPER_PROVIDER_FACTORY = "my_provider:make_provider"   # module:function that returns your ProxyProvider
+$env:SCRAPER_PROVIDER_FACTORY = "htmlscraper.my_provider:make_provider"   # module:function that returns your ProxyProvider
 .\.venv\bin\python.exe -m pytest tests/test_provider_contract.py -q
 ```
 Checks: `current()` is None or a valid http(s) URL; report methods never raise; `rotate()` returns a bool and reaches `False` once all routes are blocked; the route changes after `True`; `describe()` hides credentials.
