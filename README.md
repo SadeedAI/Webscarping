@@ -106,3 +106,6 @@ Adding a site = one parser in `sites.py` (see registry). Categories:
 - `ModuleNotFoundError` -> `$env:PYTHONPATH="src"`.
 - `CONFIG ERROR` -> check proxy URL format `http://user:pass@host:port`.
 - Exit 1 and `stopped_with` set -> read `output/live/request_log.csv`.
+Test Contributors:
+- Mohamed Koura
+
